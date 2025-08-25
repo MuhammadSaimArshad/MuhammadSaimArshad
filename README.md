@@ -1,28 +1,79 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saim Arshad</h1>
-<h3 align="center">Flutter Developer</h3>
-<img align="right" alt="coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cDsP6g4vW8BJ9sE7fsHI--9ZgjXD-fNuHA&usqp=CAU">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadSaimArshad&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadSaimArshad" /> </p>
-
-- 🔭 I’m currently working as **Flutter Developer.**
-
-- 🌱 I’m currently learning **Project Management Skills.**
-
-- 👯 I’m looking to collaborate on **differece Repository.**
-
-- 📫 How to reach me **saimarshad075@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-saim-arshad-680544283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-saim-arshad-680544283" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadMuhammadSaimArshadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadMuhammadSaimArshadd" height="30" width="40" /></a>
+<p align="center">
+  <img alt="coding" width="400" 
+       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cDsP6g4vW8BJ9sE7fsHI--9ZgjXD-fNuHA&usqp=CAU">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi , I'm Muhammad Saim Arshad</h1>
+<h3 align="center">Flutter Developer | Cross-Platform Apps |  Package Creator (140+ Pub Points) | Open Source Contributor </h3>
+<h1 align="center">👋 About Me</h1>
+<h4 align="center">I build high-performance, scalable mobile & web applications with a focus on clean architecture and efficient APIs.</h4>
+<h4 align="center">📱 Mobile: Android & iOS apps using Flutter (MVC,MVVM, Clean Architecture).</h4>
+<h4 align="center">🛡️ Backend: Firebase, SQL RESTAPI integration</h4>
+<h4 align="center">🔗 Integrations: 3rd-party APIs, SDKs, Stripe, Gemini AI</h4>
+<h4 align="center">🗂️ Project Management: End-to-end delivery, CI/CD, Team leader</h4>
+<h1 align="center">Connect With Me</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaimArshad&show_icons=true&locale=en&layout=compact" alt="MuhammadSaimArshad" /></p>
+<p align="center">
+  <a href="https://www.facebook.com/msaimarshad167/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadsaimarshad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+ 
+</p>
+<h1 align="center">💻 Tech Stack</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaimArshad&show_icons=true&locale=en" alt="MuhammadSaimArshad" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaimArshad&" alt="MuhammadSaimArshad" /></p>
+<h1 align="center">📊 GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaimArshad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadSaimArshad&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaimArshad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+
+
+<h1 align="center">✍️ Random Dev Quote</h1>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
+<h1 align="center">🔝 Top Contributed Repo</h1>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MuhammadSaimArshad&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MuhammadSaimArshad&icon=4&color=1" />
+  </a>
+</p>
+
+
+
+
+
+
+
