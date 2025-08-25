@@ -65,11 +65,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=MuhammadSaimArshad&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MuhammadSaimArshad&icon=4&color=1" />
-  </a>
-</p>
 
 
 
