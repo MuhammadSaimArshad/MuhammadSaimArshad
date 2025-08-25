@@ -15,11 +15,22 @@
 <h1 align="center">Connect With Me</h1>
 
 <p align="center">
+    </a>
+  <a href="https://saimarshad.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" />
+  </a>
+
   <a href="https://www.facebook.com/msaimarshad167/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadsaimarshad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+   <a href="mailto:saimarshad075@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://wa.me/923059895650" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
  
 </p>
